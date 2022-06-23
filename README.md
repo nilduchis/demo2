@@ -1,3 +1,5 @@
 # demo Proyecto README
 
-This is a simple radme file
+This is a simple readme file
+
+##HEAding 2
